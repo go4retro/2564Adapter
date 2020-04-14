@@ -127,6 +127,8 @@
 <text x="7.9375" y="0.3175" size="0.8128" layer="25" ratio="10" rot="R90">A14</text>
 <text x="5.3975" y="0.3175" size="0.8128" layer="25" ratio="10" rot="R90">A15</text>
 <text x="13.0175" y="0.3175" size="0.8128" layer="25" ratio="10" rot="R90">GND</text>
+<dimension x1="0" y1="20.32" x2="35.56" y2="20.32" x3="17.78" y3="22.86" textsize="1.778" layer="48"/>
+<dimension x1="1.27" y1="21.59" x2="1.27" y2="0" x3="-1.27" y3="10.795" textsize="1.778" layer="48"/>
 </plain>
 <libraries>
 <library name="0RB_Memory">
